@@ -14,7 +14,7 @@ Cada uno de estos métodos se encuentra organizado en carpetas específicas. Al 
 
 Competencia de la Asignatura
 
-         Aplica los métodos numéricos para resolver problemas científicos y de ingeniería utilizando la computadora.
+  Aplica los métodos numéricos para resolver problemas científicos y de ingeniería utilizando la computadora.
 
 Competencia del TEMA
 
