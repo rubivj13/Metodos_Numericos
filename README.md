@@ -54,4 +54,7 @@ REPRESENTACIONES GRÁFICAS
 ![Captura de pantalla 2024-02-28 222609](https://github.com/rubivj13/Metodos_Numericos/assets/147438464/0ab55093-032e-4ea5-8a94-7f196b8e4658)
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Despedida:
 
+Me despido con un cordial saludo. Si tieneN alguna duda o sugerencia, puedes escribirme a mi correo: 22030034@itesa.edu.mx.
