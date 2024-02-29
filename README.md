@@ -1,4 +1,5 @@
 SALUDO:
+
 ¡Hola a todos! Soy Rubí Veloz Jiménez, estudiante de Ingeniería en Sistemas Computacionales. En esta ocasión, les presento un problemario relacionado con la materia de Métodos Numéricos.
 
 Descripción del Problemario: 
