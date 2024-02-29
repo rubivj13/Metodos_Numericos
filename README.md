@@ -3,6 +3,7 @@ SALUDO:
 ¡Hola a todos! Soy Rubí Veloz Jiménez, estudiante de Ingeniería en Sistemas Computacionales. En esta ocasión, les presento un problemario relacionado con la materia de Métodos Numéricos.
 
 Descripción del Problemario: 
+
 En este conjunto de ejercicios, exploraremos cuatro métodos para determinar las raíces de funciones. Estos métodos son:
 
   1. Método de Bisección: Un enfoque sencillo pero efectivo para encontrar raíces en intervalos.
