@@ -25,10 +25,15 @@ Competencia del TEMA
     Aplica los métodos numéricos con el objeto de solucionar ecuaciones mediante los métodos de intervalo e interpolación apoyada de un lenguaje de programación.  
 
 TEMARIO 
+
    2.1 Métodos de intervalo. 
-   2.2 Método de bisección. 
+   
+   2.2 Método de bisección.
+   
    2.3 Método de aproximaciones sucesivas. 
+   
    2.4 Métodos de interpolación. 
+   
    2.5 Aplicaciones.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
