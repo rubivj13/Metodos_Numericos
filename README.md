@@ -1,3 +1,4 @@
+SALUDO:
 ¡Hola a todos! Soy Rubí Veloz Jiménez, estudiante de Ingeniería en Sistemas Computacionales. En esta ocasión, les presento un problemario relacionado con la materia de Métodos Numéricos.
 
 Descripción del Problemario: 
@@ -11,6 +12,7 @@ En este conjunto de ejercicios, exploraremos cuatro métodos para determinar las
 Cada uno de estos métodos se encuentra organizado en carpetas específicas. Al ingresar a la carpeta correspondiente de cada método, encontrarás cinco ejercicios resueltos en el lenguaje de programación Java. Además, dentro de cada carpeta, proporcionamos una breve descripción y detalles importantes sobre la aplicación de cada método.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SOBRE LA MATERIA
 
 Competencia de la Asignatura
 
