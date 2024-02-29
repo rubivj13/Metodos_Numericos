@@ -18,21 +18,22 @@ SOBRE LA MATERIA
 
 Competencia de la Asignatura
 
-  Aplica los métodos numéricos para resolver problemas científicos y de ingeniería utilizando la computadora.
+    Aplica los métodos numéricos para resolver problemas científicos y de ingeniería utilizando la computadora.
 
 Competencia del TEMA
 
-  Aplica los métodos numéricos con el objeto de solucionar ecuaciones mediante los métodos de intervalo e interpolación apoyada de un lenguaje de programación.  
+    Aplica los métodos numéricos con el objeto de solucionar ecuaciones mediante los métodos de intervalo e interpolación apoyada de un lenguaje de programación.  
 
 TEMARIO 
- 2.1 Métodos de intervalo. 
- 2.2 Método de bisección. 
- 2.3 Método de aproximaciones sucesivas. 
- 2.4 Métodos de interpolación. 
- 2.5 Aplicaciones.
+   2.1 Métodos de intervalo. 
+   2.2 Método de bisección. 
+   2.3 Método de aproximaciones sucesivas. 
+   2.4 Métodos de interpolación. 
+   2.5 Aplicaciones.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 REPRESENTACIONES GRÁFICAS
+
 1. Método de Bisección.
   ![Imagen de WhatsApp 2024-02-28 a las 22 18 18_c66bb2e7](https://github.com/rubivj13/Metodos_Numericos/assets/147438464/bded96b1-64f6-4520-9fc0-b2dd1b794379)
 
