@@ -62,4 +62,4 @@ REPRESENTACIONES GRÁFICAS
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Despedida:
 
-Me despido con un cordial saludo. Si tieneN alguna duda o sugerencia, puedes escribirme a mi correo: 22030034@itesa.edu.mx.
+Me despido con un cordial saludo. Si tienen alguna duda o sugerencia, contactar por redes sociales: facebook, instagram, etc.
