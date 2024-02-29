@@ -39,6 +39,7 @@ REPRESENTACIONES GRÁFICAS
   ![Imagen de WhatsApp 2024-02-28 a las 22 23 41_62839bca](https://github.com/rubivj13/Metodos_Numericos/assets/147438464/0326197f-06b9-42ae-837c-d9d5f1f6d232)
 
 4. Método de Newton-Raphson.
+   
 ![Captura de pantalla 2024-02-28 222609](https://github.com/rubivj13/Metodos_Numericos/assets/147438464/0ab55093-032e-4ea5-8a94-7f196b8e4658)
 
 
