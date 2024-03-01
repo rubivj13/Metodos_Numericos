@@ -70,6 +70,6 @@ public class Biseccion4 {
 
     // Definir la función para encontrar la raíz de
     public static double func(double x) {
-        return Math.pow(x, 3) - 9 * Math.pow(x, 4) - 2*x - 12;
+        return Math.pow(x, 3) - 9 * Math.pow(x, 4) + 2*x + 12;
     }
 }
