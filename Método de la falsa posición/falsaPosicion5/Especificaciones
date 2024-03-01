@@ -2,6 +2,6 @@ Descripcion del ejemplo:
 
 Función: -0.5x^(2)+2.5x+4.5  Limites -> A:6 B:7      Iteraciones: 10        Error: 0.0001
 
-Implementacion (resultado a 5 cifras significativas)
+Implementacion (resultado a 5 después del punto decimal)
 
 6.40511
