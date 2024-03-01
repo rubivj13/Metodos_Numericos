@@ -1,0 +1,7 @@
+Descripcion del ejemplo:
+
+Función: x^(2)-3x-4     Limites -> Aproximación1: 5   Aproximación2: 3.5        Iteraciones: 10        Error: 0.0001
+
+Implementacion (resultado a 5 cifras significativas)
+
+4.00000
