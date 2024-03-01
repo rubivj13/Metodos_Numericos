@@ -175,6 +175,7 @@ Error: 0.0001
   ![Captura de pantalla 2024-02-29 222857](https://github.com/rubivj13/Metodos_Numericos/assets/147438464/035fc501-0729-4ff8-9c91-900f354df65a)
 
 
+Te invito a que puedas checar mis ejercicios para profundizar en la implementación: <a href="#[INDICE](https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20bisecci%C3%B3n)"> <font font face = "arial"> https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20bisecci%C3%B3n </font> </a>
 
 
 
