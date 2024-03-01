@@ -302,6 +302,8 @@ Error: 0.0001
 
 
    
+Te invito a que puedas checar mis ejercicios para profundizar en la implementación: <a href="#[[INDICE](https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20bisecci%C3%B3n)](https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20la%20falsa%20posici%C3%B3n)"> <font font face = "arial"> https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20la%20falsa%20posici%C3%B3n </font> </a>
+
 
 
 
@@ -422,6 +424,8 @@ Error: 0.0001
 
 
 
+Te invito a que puedas checar mis ejercicios para profundizar en la implementación: <a href="#[[[INDICE](https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20bisecci%C3%B3n)](https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20la%20falsa%20posici%C3%B3n)](https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20la%20secante)"> <font font face = "arial"> https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20la%20secante </font> </a>
+
 
 
 
@@ -541,6 +545,7 @@ Error: 0.0001
 
 
 
+Te invito a que puedas checar mis ejercicios para profundizar en la implementación: <a href="#[[[[INDICE](https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20bisecci%C3%B3n)](https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20la%20falsa%20posici%C3%B3n)](https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20la%20secante)](https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20Newton%20Raphson)"> <font font face = "arial"> https://github.com/rubivj13/Metodos_Numericos/tree/main/M%C3%A9todo%20de%20Newton%20Raphson </font> </a>
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
