@@ -1,0 +1,7 @@
+Descripcion del ejemplo:
+
+Función: x^(2)-2x-5    Derivada de la Función: 2x-2       Aproximación inicial: 3       Iteraciones: 10        Error: 0.0001
+
+Implementacion (resultado a 5 despues del punto decimal)
+
+3.44949
