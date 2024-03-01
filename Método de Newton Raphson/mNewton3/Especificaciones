@@ -1,0 +1,7 @@
+Descripcion del ejemplo:
+
+Función: 15x^(2)+5 x-3    Derivada de la Función: 30x+5       Aproximación inicial: 0       Iteraciones: 10        Error: 0.0001
+
+Implementacion (resultado a 5 cifras después del punto decimal)
+
+0.31059 
