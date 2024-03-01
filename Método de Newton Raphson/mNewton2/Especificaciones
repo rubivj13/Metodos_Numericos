@@ -1,0 +1,7 @@
+Descripcion del ejemplo:
+
+Función: 3x^(4)-x    Derivada de la Función: 12x^(3)-1       Aproximación inicial: 0.5       Iteraciones: 10        Error: 0.0001
+
+Implementacion (resultado a 5 cifras después del punto decimal)
+
+0.69336
