@@ -64,7 +64,7 @@ Cada uno de estos métodos se encuentra organizado en carpetas específicas. Al 
 
 <h3 align = "center"> <font font face = "forte"> <a name="Método de Bisección"> 1. Método de Bisección </a> </h3>
 
-<h4> <font font face = "arial"> DESCRICIÓN: </h4>
+<h4> <font font face = "arial"> DESCRIPCIÓN: </h4>
 
 El método de bisección, conocido también como de corte binario, de partición de intervalos o de Bolzano, es un tipo de búsqueda incremental en el que el intervalo se divide siempre a la mitad. Si la función cambia de signo sobre un intervalo, se evalúa el valor de la función en el punto medio. La posición de la raíz se determina situándola en el punto medio del subintervalo, dentro del cual ocurre un cambio de signo. El proceso se repite hasta obtener una mejor aproximación.
 
@@ -181,7 +181,7 @@ Te invito a que puedas checar mis ejercicios para profundizar en la implementaci
 
 <h3 align = "center"> <font font face = "forte"> <a name="Método de la Falsa Posición"> 2. Método de la Falsa Posición </a> </h3>
 
-<h4> <font font face = "arial"> DESCRICIÓN: </h4>
+<h4> <font font face = "arial"> DESCRIPCIÓN: </h4>
 
 Aun cuando la bisección es una técnica perfectamente válida para determinar raíces, su método de aproximación por “fuerza bruta” es relativamente ineficiente. La falsa posición es una alternativa basada en una visualización gráfica.
 
@@ -309,7 +309,7 @@ Te invito a que puedas checar mis ejercicios para profundizar en la implementaci
 
 <h3 align = "center"> <font font face = "forte"> <a name="Método de la Secante"> 3. Método de la Secante. </a> </h3>
 
-<h4> <font font face = "arial"> DESCRICIÓN: </h4>
+<h4> <font font face = "arial"> DESCRIPCIÓN: </h4>
 
 Un problema potencial en la implementación del método de Newton-Raphson es la evaluación de la derivada. Aunque esto no es un inconveniente para los polinomios ni para muchas otras funciones, existen algunas funciones cuyas derivadas en ocasiones resultan muy difíciles de calcular.
 Esta técnica es similar a la del método de Newton-Raphson en el sentido de que una aproximación de la raíz se predice extrapolando una tangente de la función hasta el eje x. Sin embargo, el método de la secante usa una diferencia dividida en lugar de una derivada para estimar la pendiente.
@@ -431,7 +431,7 @@ Te invito a que puedas checar mis ejercicios para profundizar en la implementaci
 
 <h3 align = "center"> <font font face = "forte"> <a name="Método de Newton-Raphson"> 4. Método de Newton-Raphson. </a> </h3>
    
-<h4> <font font face = "arial"> DESCRICIÓN: </h4>
+<h4> <font font face = "arial"> DESCRIPCIÓN: </h4>
 
 El método de Newton-Raphson se utilizó empleando la derivada (al evaluar, es la pendiente de la recta tangente) de una función, para calcular su intersección con el eje de la variable independiente; esto es, la raíz.
 
