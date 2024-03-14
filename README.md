@@ -1,4 +1,4 @@
-<h1> <font color = "darkred" size="+5" font face = "cooper black"> <b> <i> SALUDO: </i> </b> </font> </h1>
+<h1> <font color = "darkred" size="+5" font face = "cooper black"> <b> <i> SALUDO </i> </b> </font> </h1>
 
 ¡Hola a todos! Soy Rubí Veloz Jiménez, estudiante de Ingeniería en Sistemas Computacionales. En esta ocasión, les presento un problemario relacionado con la materia de Métodos Numéricos.
 
